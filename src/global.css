@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Volkhov:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-manrope: Manrope;
+  --font-poppins: Poppins;
+  --font-roboto: Roboto;
+  --font-open-sans: "Open Sans";
+  --font-montserrat: Montserrat;
+  --font-volkhov: Volkhov;
+
+  /* font sizes */
+  --font-size-2xs: 12px;
+  --font-size-xs: 14px;
+  --font-size-sm: 15px;
+  --font-size-base: 16px;
+  --font-size-lg: 17px;
+  --font-size-xl: 18px;
+  --font-size-2xl: 20px;
+  --font-size-3xl: 21px;
+  --font-size-4xl: 24px;
+  --font-size-5xl: 25px;
+  --font-size-6xl: 28px;
+  --font-size-7xl: 32px;
+  --font-size-8xl: 36px;
+  --font-size-9xl: 40px;
+  --font-size-10xl: 44px;
+  --font-size-11xl: 50px;
+
+  /* Colors */
+  --color-gray-100: #dedede;
+  --color-gray-200: #959595;
+  --text-color1: #686d77;
+  --text-clr: #5e6282;
+  --text-color: #39425d;
+  --color-gray-600: #302f2f;
+  --st1: #212832;
+  --text-heading-color: #1e1d4c;
+  --st: #181e4b;
+  --rd: #14183e;
+  --color-gray-1100: #131212;
+  --color-gray-1200: rgba(0, 0, 0, 0.87);
+  --color-gray-1300: rgba(0, 0, 0, 0.54);
+  --color-gray-1400: rgba(255, 255, 255, 0.36);
+  --white1: #fff;
+  --yellow: #f1a501;
+  --color-green: #5cdb59;
+  --color-beige: #ffecb3;
+
+  /* Gaps */
+  --gap-0: 0px;
+  --gap-5xs: 4px;
+  --gap-4xs: 5px;
+  --gap-3xs: 10px;
+  --gap-2xs: 15px;
+  --gap-xs: 16px;
+  --gap-sm: 17px;
+  --gap-md: 20px;
+  --gap-lg: 24px;
+  --gap-xl: 32px;
+  --gap-2xl: 34px;
+  --gap-3xl: 50px;
+  --gap-4xl: 58px;
+  --gap-5xl: 90px;
+
+  /* Paddings */
+  --padding-4xs: 5px;
+  --padding-3xs: 10px;
+  --padding-2xs: 16px;
+  --padding-xs: 20px;
+  --padding-sm: 25px;
+  --padding-md: 30px;
+  --padding-lg: 48px;
+  --padding-xl: 50px;
+  --padding-2xl: 100px;
+  --padding-3xl: 150px;
+  --padding-4xl: 250px;
+
+  /* border radiuses */
+  --br-xs: 4px;
+  --br-sm: 5px;
+  --br-md: 10px;
+  --br-lg: 20px;
+  --br-xl: 40px;
+}
